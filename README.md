@@ -9,6 +9,7 @@ The communication channel is secured using BB84 protocol, that can prevent the a
 
 # QC Hack
 This project was submitted to the QCHack Hackthon, we won the Grand prize for the IBM Creative Challenge.
+Presentation Slides: shorturl.at/jqAY2
 
 # Deployed Application
 https://qc-hacks.herokuapp.com
