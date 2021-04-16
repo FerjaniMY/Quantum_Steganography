@@ -8,8 +8,8 @@ Stego data is constructed by modifying cover data, i.e.,  stego  data  is  made 
 The communication channel is secured using BB84 protocol, that can prevent the attacker to decode the hidden message without knowing the key.
 
 # QC Hack
-This project was submitted to the QCHack Hackthon, we won the Grand prize for the IBM Creative Challenge.
-[Presentation](https://www.canva.com/design/DAEbXXyw0fU/view)
+- This project was submitted to the QCHack Hackthon, we won the Grand prize for the IBM Creative Challenge.
+- [Presentation](https://www.canva.com/design/DAEbXXyw0fU/view)
 
 # Deployed Application
 https://qc-hacks.herokuapp.com
